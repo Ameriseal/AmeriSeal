@@ -1,2 +1,0 @@
-# AmeriSeal
-GitHub Pages
